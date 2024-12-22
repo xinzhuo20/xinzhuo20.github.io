@@ -13,5 +13,5 @@ B.S., Electrical and Computer Engineering, University of Illinois Urbana-Champai
 B.E., Electronics and Computer Engineering, Zhejiang University, 2020—2024.
 
 #### Research Interests
-Large Vision-Language Model, Machine Learning, .
+Large Vision-Language Model, Computer Vision, Machine Learning.
 
